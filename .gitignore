@@ -1,0 +1,3 @@
+*.log
+*solution.ipynb
+.ipynb_checkpoints/
